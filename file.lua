@@ -1,2 +1,2 @@
-local hwids = "3265891131"
-return hwids
+--local hwids = 
+return "3265891131"
